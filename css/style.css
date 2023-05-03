@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.heading {
+    font-weight: bold;
+    margin: 2rem;
+}
+
+.btn1 {
+    color: rgba(35, 35, 35, 0.627);
+    border: none;
+    background-color: black;
+}
+
+li {
+    text-align: left;
+}
+
+.btn2 {
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    border: none;
+    background-color: white;
+    border-radius: 1rem;
+}
+
+.btn2:hover {
+    background-color: rgba(255, 255, 255, 0.21);
+    color: black;
+}
+
+.btn {
+    color: white;
+}
+
+th {
+    color: white;
+}
